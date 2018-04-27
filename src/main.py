@@ -1,10 +1,11 @@
 import craftai
 import json
-import settings
+import os
 
 ## 1) Connect to craftai api
-config = settings.CRAFT_CFG
-client = craftai.Client(config)
+client = craftai.Client({
+  "token": os.environ.get("CRAFT_TOKEN")
+})
 
 ## 2) Create the agent
 agent_id = "Wellness"

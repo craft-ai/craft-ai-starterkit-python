@@ -2,1067 +2,1067 @@
    {
       "timestamp": 1485385200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.0,
          "sleep": 7.133333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1485298800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.55,
          "sleep": 5.75,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1485212400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.45,
          "sleep": 6.05,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1485126000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.75,
          "sleep": 6.683333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1485039600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.566666666666666,
          "sleep": 6.716666666666668,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484953200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.38333333333333336,
          "sleep": 9.6,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484866800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.7833333333333333,
          "sleep": 10.433333333333334,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484780400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.6833333333333333,
          "sleep": 5.7333333333333325,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484694000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.1,
          "sleep": 7.433333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484607600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.45,
          "sleep": 7.033333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484521200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.2,
          "sleep": 5.133333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484434800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.2333333333333333,
          "sleep": 6.083333333333332,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484348400,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.11666666666666667,
          "sleep": 9.9,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484262000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.08333333333333,
          "sleep": 12.066666666666665,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484175600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.95,
          "sleep": 6.4,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484089200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.28333333333333,
          "sleep": 7.316666666666666,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1484002800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 22.36666666666667,
          "sleep": 8.166666666666666,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483830000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 10.25,
          "sleep": 4.916666666666667,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483743600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.516666666666666,
          "sleep": 8.583333333333334,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483657200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.95,
          "sleep": 6.15,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483570800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.15,
          "sleep": 7.433333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483484400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.4666666666666667,
          "sleep": 6.033333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483398000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.06666666666666668,
          "sleep": 7.7,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483311600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.9,
          "sleep": 6.05,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483225200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.93333333333333,
          "sleep": 6.466666666666668,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483138800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 4.883333333333333,
          "sleep": 6.716666666666668,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1483052400,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.7166666666666668,
          "sleep": 7.683333333333334,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482966000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "True",
          "sleep_start": 1.4666666666666668,
          "sleep": 8.516666666666667,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482879600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.7,
          "sleep": 10.083333333333334,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482793200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.83333333333333,
          "sleep": 10.083333333333334,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482706800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.3,
          "sleep": 10.733333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482620400,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.5833333333333337,
          "sleep": 7.966666666666668,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482534000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.05,
          "sleep": 8.2,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482447600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 22.566666666666666,
          "sleep": 10.05,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482361200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.2,
          "sleep": 9.483333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482274800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.0833333333333333,
          "sleep": 8.533333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482188400,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.11666666666667,
          "sleep": 8.6,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482102000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.03333333333333,
          "sleep": 7.683333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1482015600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.0,
          "sleep": 7.533333333333332,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481929200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 22.38333333333333,
          "sleep": 11.033333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481842800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.48333333333333,
          "sleep": 8.066666666666666,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481756400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 23.9,
          "sleep": 6.4833333333333325,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481670000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.48333333333333,
          "sleep": 6.9,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481583600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 23.68333333333333,
          "sleep": 6.633333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481497200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.5,
          "sleep": 5.466666666666668,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481410800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.38333333333333336,
          "sleep": 5.966666666666668,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481324400,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.85,
          "sleep": 9.733333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481238000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.35,
          "sleep": 9.75,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481151600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 23.8,
          "sleep": 6.283333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1481065200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.05,
          "sleep": 6.066666666666666,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480978800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 22.61666666666667,
          "sleep": 7.616666666666666,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480892400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 22.516666666666666,
          "sleep": 7.45,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480806000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.53333333333333,
          "sleep": 6.4833333333333325,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480719600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 21.3,
          "sleep": 12.783333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480633200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "True",
          "sleep_start": 23.95,
          "sleep": 10.316666666666666,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480546800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 21.65,
          "sleep": 6.833333333333332,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480460400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.68333333333333,
          "sleep": 5.75,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480374000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 22.566666666666666,
          "sleep": 6.633333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480287600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.8,
          "sleep": 6.133333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480201200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.83333333333333,
          "sleep": 6.4833333333333325,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480114800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.65,
          "sleep": 10.233333333333333,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1480028400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 1.5666666666666669,
          "sleep": 5.916666666666668,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479942000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.1,
          "sleep": 6.9,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479855600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.35,
          "sleep": 6.783333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479769200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 11.533333333333333,
          "sleep": 1.8166666666666669,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479682800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.91666666666667,
          "sleep": 6.183333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479596400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.1,
          "sleep": 7.05,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479510000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.78333333333333,
          "sleep": 9.4,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479423600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.63333333333333,
          "sleep": 10.983333333333333,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479337200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.38333333333333,
          "sleep": 6.583333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479250800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 23.73333333333333,
          "sleep": 6.2666666666666675,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479164400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 22.68333333333333,
          "sleep": 7.6,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1479078000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.28333333333333,
          "sleep": 6.9833333333333325,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478991600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 21.05,
          "sleep": 9.0,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478905200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.2333333333333334,
          "sleep": 8.983333333333333,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478818800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.1833333333333331,
          "sleep": 7.7333333333333325,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478732400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 1.7333333333333334,
          "sleep": 7.133333333333334,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478646000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.16666666666666666,
          "sleep": 6.2,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478559600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.43333333333333335,
          "sleep": 7.35,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478473200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 2.45,
          "sleep": 5.4,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478386800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.43333333333333,
          "sleep": 6.566666666666666,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478300400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 0.5666666666666667,
          "sleep": 6.9833333333333325,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478214000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.35,
          "sleep": 6.083333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478127600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.0166666666666666,
          "sleep": 4.933333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1478041200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.9,
          "sleep": 6.8,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477954800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.23333333333333,
          "sleep": 7.1,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477868400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 0.2,
          "sleep": 9.35,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477778400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.86666666666667,
          "sleep": 9.5,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477692000,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.0,
          "sleep": 11.016666666666667,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477605600,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 1.2333333333333334,
          "sleep": 8.933333333333334,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477519200,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "True",
          "sleep_start": 23.65,
          "sleep": 6.933333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477432800,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.73333333333333,
          "sleep": 6.633333333333334,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477346400,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.95,
          "sleep": 6.416666666666668,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477260000,
       "context": {
+         "day_off": "False",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.75,
          "sleep": 6.333333333333332,
-         "day_off": "False",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477173600,
       "context": {
+         "day_off": "False",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 23.316666666666666,
          "sleep": 6.95,
-         "day_off": "False",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477087200,
       "context": {
+         "day_off": "True",
+         "next_day_off": "True",
          "sleep_at_home": "False",
          "sleep_start": 0.26666666666666666,
          "sleep": 8.2,
-         "day_off": "True",
-         "next_day_off": "True",
          "timezone": "+02:00"
       }
    },
    {
       "timestamp": 1477000800,
       "context": {
+         "day_off": "True",
+         "next_day_off": "False",
          "sleep_at_home": "False",
          "sleep_start": 23.28333333333333,
          "sleep": 9.1,
-         "day_off": "True",
-         "next_day_off": "False",
          "timezone": "+02:00"
       }
    }

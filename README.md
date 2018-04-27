@@ -15,8 +15,9 @@ Take a look at the associated [tutorial available on our blog](http://www.craft.
 ## Setup ##
 
 - Download or clone the [sources from GitHub](https://github.com/craft-ai/craft-ai-starterkit-python),
-- Install [Python](https://www.python.org/downloads/) on your computer (version >=3.5 is recommended),
-- Install the dependencies including **craft ai** python client, using `pip` by running `pip install -r requirements.txt` in the cloned or downloaded repository, from a terminal.
+- Install [Python v3.5](https://www.python.org/downloads/) on your computer, alternatively install any version of Python and install [pyenv](https://github.com/pyenv/pyenv#installation),
+- Install [pipenv](https://docs.pipenv.org/#install-pipenv-today) to properly manage dependencies,
+- Install the dependencies including **craft ai** python client, by running `pipenv install` in the cloned or downloaded repository, from a terminal.
 - in this directory, fill a `.env` file setting the following variable:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials),
 
@@ -30,7 +31,7 @@ The following will:
 4. take a few decisions.
 
 ```console
-python src/main.py
+pipenv run start
 ```
 
 ### What do next ? ###
@@ -58,7 +59,7 @@ This starter kit uses real data anonymized and extracted from a personal connect
 The data can be treated and then output by the script `src/prepare.py`. The cleaned data is already provided in the `data` folder but you can output it again by running:
 
 ```console
-python src/prepare.py
+pipenv run prepare
 ```
 
 The result will be set in `data/clean_data.json`.

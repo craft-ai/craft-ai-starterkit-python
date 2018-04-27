@@ -1,9 +1,9 @@
 language: python
 python: '3.5'
 install:
-- pip install --upgrade pip
-- pip install -r requirements.txt
-script: python src/main.py
+- pip install pipenv
+- pipenv install
+script: pipenv run start
 notifications:
   slack: craft-ai:ZNnQErHJhw40oKmphy3fNGza
   email:

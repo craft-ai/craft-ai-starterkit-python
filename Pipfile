@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+craft-ai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"
+
+[scripts]
+start = "python src/main.py"
+prepare = "python src/prepare.py"
