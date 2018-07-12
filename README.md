@@ -19,7 +19,10 @@ Take a look at the associated [tutorial available on our blog](http://www.craft.
 - Install [pipenv](https://docs.pipenv.org/#install-pipenv-today) to properly manage dependencies,
 - Install the dependencies including **craft ai** python client, by running `pipenv install` in the cloned or downloaded repository, from a terminal.
 - in this directory, fill a `.env` file setting the following variable:
-    - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials),
+    - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials):
+    ```
+    CRAFT_TOKEN=my-token
+    ```
 
 ## Run ##
 
