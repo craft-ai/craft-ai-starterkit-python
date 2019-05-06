@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-craft-ai = "*"
+pandas = "==0.24.1"
+craft-ai = "==1.15.0"
 
 [dev-packages]
 
