@@ -31,7 +31,7 @@ configuration = {
             "type": "continuous"
         }
     },
-    "output": ["sleep"],                    # the output is continuous
+    "output": ["sleep"]                    # the output is continuous
 }
 
 # Delete older version of the agent
