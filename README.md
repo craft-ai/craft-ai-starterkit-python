@@ -10,7 +10,7 @@ The end goal: improve the _sleep_ of the user based on its _historical sleep dat
 
 ## Tutorial ##
 
-Take a look at the associated [tutorial available on our blog](http://www.craft.ai/blog/)!
+Take a look at the associated [tutorial available on our blog](https://www.craft.ai/blog/personal-wellness-coach/)!
 
 ## Setup ##
 
