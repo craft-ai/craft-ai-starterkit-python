@@ -6,7 +6,7 @@
 
 This repository hosts a fully working application, in a **Personal Wellness Analysis** context, integrating [**craft ai**](http://craft.ai) written in Python using [**craft ai** official Python client](https://pypi.python.org/pypi?:action=display&name=craft-ai).
 
-The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several weeks of data containing _details_ about his day and the time he slept during this day's night. Using **craft ai**, this simple application learns how well the user sleeps based on his day's data. From this learned model, we can predict how well he may sleep at night and provide meaningful, contextualized advices.
+The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several weeks of data containing _details_ about his day and the time he slept during the night. Using **craft ai**, this simple application learns how well the user sleeps based on his day's data. From this learned model, we can predict how well he may sleep at night and provide meaningful, contextualized advices.
 
 ## Tutorial ##
 
@@ -37,11 +37,12 @@ The following will:
 pipenv run start
 ```
 
-### What do next ? ###
+### What to do next ? ###
 
-Now that you know how to compute your decision tree, you are able to complete the initial goal: predict the user's **sleep time**.
+Now that you know how to compute your decision tree, you are able to complete the initial goal: predict the user's **sleep duration**.
 
-You can add context operations in real time, day after day, and compute a decision when the context changes that can be used, in conjuction with its confidence, to encourage the user to go to bed at a certain hour in order to have the best night possible.
+You can add context operations in real time, day after day, and compute a decision when the context changes. It can be used to encourage the user to go to bed at a certain hour in order to have a good night’s sleep.
+
 
 ## About the dataset ##
 
