@@ -14,7 +14,7 @@ Take a look at the associated [tutorial available on our blog](https://www.craft
 
 ## Setup ##
 
-- Download or clone the [sources from GitHub](https://github.com/craft-ai/craft-ai-starterkit-python),
+- Download or clone the sources from this repo,
 - Install [Python v3.5](https://www.python.org/downloads/) on your computer, alternatively install any version of Python and install [pyenv](https://github.com/pyenv/pyenv#installation),
 - Install [pipenv](https://docs.pipenv.org/#install-pipenv-today) to properly manage dependencies,
 - Install the dependencies including **craft ai** python client, by running `pipenv install` in the cloned or downloaded repository, from a terminal.
