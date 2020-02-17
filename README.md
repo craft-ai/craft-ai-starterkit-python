@@ -16,7 +16,7 @@ Take a look at the associated [tutorial available on our blog](https://www.craft
 
 - Download or clone the sources from this repository,
 - Install [Python v3.5](https://www.python.org/downloads/) on your computer, alternatively install any version of Python and install [pyenv](https://github.com/pyenv/pyenv#installation),
-- Install [pipenv](https://docs.pipenv.org/#install-pipenv-today) to properly manage dependencies,
+- Install [pipenv](https://pypi.org/project/pipenv/) to properly manage dependencies,
 - Install the dependencies including **craft ai** python client, by running `pipenv install` in the cloned or downloaded repository, from a terminal.
 - Create a new project using this [link](https://beta.craft.ai/inspector) (using Google Chrome or Chromium). You can see that you now have two tokens : the "Read API token" and the "Write API token". Only the latter will be used here. These tokens allow you to authenticate your calls to the **craft ai** API as explained in the [documentation](https://beta.craft.ai/doc/python).
 - In the cloned/downloaded repository, create a `.env` file. Fill it with the line `CRAFT_TOKEN=` followed by the Write API token of your project. It should look like this:
