@@ -4,13 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "==0.24.1"
-craft-ai = "==1.15.0"
+pandas = "*"
+craft-ai = "==2.0.0rc2"
 
 [dev-packages]
 
 [requires]
-python_version = "3.5"
+python_version = "3.6"
 
 [scripts]
 start = "python src/main.py"

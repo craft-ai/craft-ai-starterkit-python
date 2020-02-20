@@ -1,9 +1,9 @@
-import craftai
+import craft_ai
 import json
 import os
 
 ## 1) Connect to craftai api
-client = craftai.Client({
+client = craft_ai.Client({
   "token": os.environ.get("CRAFT_TOKEN")
 })
 
