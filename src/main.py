@@ -47,12 +47,12 @@ context_list = []
 with open("data/clean_data.json") as data_file:
     context_list = json.load(data_file)
 
-client.add_operations(agent_id, context_list)
+client.add_agent_operations(agent_id, context_list)
 print("List of contexts added")
 
 ## 4) Retreive the decison tree
 dt_timestamp = 1484521200 # computed tree at the 2017-01-16 (example)
-decision_tree = client.get_decision_tree(agent_id, dt_timestamp, 2)
+decision_tree = client.get_agent_decision_tree(agent_id, dt_timestamp, 2)
 
 ## 5) Compute a decision based on a context
 context = {
